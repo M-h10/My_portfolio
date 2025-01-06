@@ -6,15 +6,15 @@ export const About = () => {
     <section id='about'>
     <div className='justify-center items-center justify-items-center'>
 
-        <h1 className='font-Poppins text-gray-600 pt-7  font-extralight text-[42px]'>
+        <h1 className=' font-Poppins text-gray-600 pt-[52px] font-extralight text-[42px]'>
             About me
         </h1>
 
   </div>
-  <div className='flex mb-3  mt-14 flex-col mx-4 items-center justify-center md:gap-5 md:flex-row'>
+  <div className='flex mb-3  mt-10 flex-col mx-4 items-center justify-center md:gap-5 md:flex-row'>
     <p className='font-Poppins w-1/2 text-[20px] font-extralight md:order-2'>
     
-
+   
 
 I am a dedicated and skilled Full-Stack Web Developer with comprehensive 
 expertise in designing and developing modern, high-performance web applications. <br />

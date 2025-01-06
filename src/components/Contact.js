@@ -28,7 +28,7 @@ export const Contact = () => {
     return (
 
 
-        <section id='contact' className='bg-white w-full pt-7 h-[600px] text-black'>
+        <section id='contact' className='bg-white w-full pt-14  h-[600px] text-black'>
             <div className='justify-center justify-items-center   '>
                 <h1 className='text-[32px] font-serif'>Get in Touch</h1>
             </div>

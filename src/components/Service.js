@@ -3,7 +3,7 @@ import { DiCode } from "react-icons/di";
 import { FaDatabase } from "react-icons/fa6";
 export const Service = () => {
   return (
-    <section id='service' className='bg-black pt-10'>
+    <section id='service' className='bg-black pt-16'>
         <div  className=' justify-center justify-items-center'>
         <h1 className='font-Poppins text-[32px]  text-white'>Services</h1>
         </div>

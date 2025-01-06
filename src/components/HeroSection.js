@@ -5,7 +5,7 @@ export const HeroSection = () => {
     // wrapper div
     <div id='hero' className= ' bg-black'>
         {/* maindiv */}
-        <div className=' text-white w-full relative z-10 h-[730px]  text-center '>
+        <div className=' text-white w-full  h-[730px]  text-center '>
          <h1 className='text-[42px] font-Roboto animate-fade-in tracking-tight pt-56 '>R.A MOHAMMED HARIS</h1>
          <h3 className='text-[20px]'> Full stack developer</h3>
          {/* button div */}

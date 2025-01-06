@@ -12,3 +12,7 @@
  .mobile_menu{
   @apply  top-16 fixed w-full h-[200px] gap-10 backdrop-blur-2xl justify-center justify-items-center items-center bg-black/20
  }
+
+ html{
+  scroll-behavior: smooth;
+ }
